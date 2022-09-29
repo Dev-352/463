@@ -1,0 +1,7 @@
+00000000: a5 a5 a5 a5 a5 a5 a5 a5  a5 a5 a5 a5 a5 a5 a5 a5 *................*
+00000010: a5 a5 a5 a5 a5 a5 a5 a5  a5 a5 a5 a5 a5 a5 a5 a5 *................*
+00000020: a5 a5 a5 a5 a5 a5 a5 a5  a5 a5 a5 a5 a5 a5 a5 a5 *................*
+WARNING: Address out of range: 0x00000030
+Program too big.
+Usage: rv32i [-m hex-mem-size] infile
+    -m specify memory size (default = 0x100)
